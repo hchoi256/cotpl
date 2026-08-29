@@ -40,7 +40,7 @@ pip install git+https://github.com/lvis-dataset/lvis-api.git
 mim install "mmdet>=3.0.0rc6"
 pip install ftfy regex
 
-bash proprocess.sh
+bash reprod/proprocess.sh
 ```
 
 ## Quick Start
